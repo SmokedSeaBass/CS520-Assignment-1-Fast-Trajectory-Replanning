@@ -1,4 +1,4 @@
-# CS520 Assignment 1: Fast-Trajectory-Replanning
+# CS520 Assignment 1: Fast Trajectory Replanning
 Latest Version: 0.1.0
 
 ---
